@@ -4,6 +4,8 @@
 
 # Artículo de Investigación sobre la Creatividad
 
+**Profesora:** Briseida Cruz
+
 **Integrantes:** 
 -Donaldo Bejerano Santos
 -Nohemi Justavino
