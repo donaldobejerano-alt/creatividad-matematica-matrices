@@ -4,7 +4,13 @@
 
 # Artículo de Investigación sobre la Creatividad
 
-**Estudiante:** Donaldo Bejerano Santos  
+**Integrantes:** 
+-Donaldo Bejerano Santos
+-Nohemi Justavino
+-Orlenis Montezuma
+-Ariel Molina
+-Carlos Miranda
+
 **Disciplina Seleccionada:** Matemática (operaciones con matrices)  
 **Fecha:** Octubre de 2026  
 
@@ -88,7 +94,3 @@ El caso de las operaciones con matrices lo demuestra con claridad: el producto d
 9. Sriraman, B. (2009). The characteristics of mathematical creativity. *ZDM, 41*(1-2), 13-27.
 
 ---
-> **📋 Requisitos de Presentación (Checklist antes de entregar):**
-> - [x] La extensión del artículo es de **1500 a 2000 palabras**.
-> - [x] El texto está bien estructurado y utiliza los subtítulos indicados.
-> - [ ] El documento fue revisado y está libre de errores ortográficos y gramaticales.
