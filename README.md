@@ -18,7 +18,7 @@
 - Ariel Molina
 - Carlos Miranda
 
-**Fecha:** 08 de Noviembre de 2026  
+**Fecha:** 08 de noviembre de 2026  
 
 ---
 
