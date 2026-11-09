@@ -4,6 +4,8 @@
 
 # Artículo de Investigación sobre la Creatividad
 
+**Grupo 2:** FOTOSÍNTESIS PEDAGÓGICA
+
 **Profesora:** Briseida Cruz
 
 **Integrantes:** 
@@ -14,7 +16,7 @@
 -Carlos Miranda
 
 **Disciplina Seleccionada:** Matemática (operaciones con matrices)  
-**Fecha:** Octubre de 2026  
+**Fecha:** 08 de Octubre de 2026  
 
 ---
 
