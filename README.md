@@ -12,8 +12,8 @@
 
 **Integrantes:** 
 
-- Donaldo Bejerano Santos
-- Nohemi Justavino
+- Donaldo Bejerano
+- Noemí Justavino
 - Orlenis Montezuma
 - Ariel Molina
 - Carlos Miranda
