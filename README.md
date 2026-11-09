@@ -5,17 +5,17 @@
 # Artículo de Investigación sobre la Creatividad
 
 **Grupo 2:** FOTOSÍNTESIS PEDAGÓGICA
+**Disciplina Seleccionada:** Matemática (operaciones con matrices) 
 
 **Profesora:** Briseida Cruz
 
 **Integrantes:** 
--Donaldo Bejerano Santos
--Nohemi Justavino
--Orlenis Montezuma
--Ariel Molina
--Carlos Miranda
 
-**Disciplina Seleccionada:** Matemática (operaciones con matrices)  
+- Donaldo Bejerano Santos
+- Nohemi Justavino
+- Orlenis Montezuma
+- Ariel Molina
+- Carlos Miranda 
 **Fecha:** 08 de Noviembre de 2026  
 
 ---
