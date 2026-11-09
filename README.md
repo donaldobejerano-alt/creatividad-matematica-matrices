@@ -16,7 +16,7 @@
 -Carlos Miranda
 
 **Disciplina Seleccionada:** Matemática (operaciones con matrices)  
-**Fecha:** 08 de Octubre de 2026  
+**Fecha:** 08 de Noviembre de 2026  
 
 ---
 
